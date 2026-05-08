@@ -166,4 +166,4 @@ See `technical_report.pdf` in this repository.
 
 ## Contact
 
-competition@mtc.edu.eg  ·  Team AIEEEs
+esraa.01281741131@gmail.com  ·  Team AIEEEs
