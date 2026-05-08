@@ -50,6 +50,7 @@ repo/
 ├── requirements.txt
 ├── train.py                    ← stub (no training needed — see note above)
 ├── track.py                    ← inference / prediction generation
+├── test3.py.                   ← The full code if the others didn't work just change the path 
 ├── models/
 │   ├── __init__.py
 │   └── feature_extractor.py   ← MobileNet-V3-Small wrapper (frozen weights)
